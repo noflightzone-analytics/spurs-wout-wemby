@@ -1,0 +1,7 @@
+Metric,With_Wemby,Without_Wemby,Delta,Narr_Delta,p_value,Cohens_d,Effect,Sig
+WIN%,0.781,0.667,-0.115,-0.115,0.3706,0.253,Small,
+ORTG,117.51,117.898,0.388,0.388,0.8723,0.039,Negligible,
+DRTG,107.913,114.756,6.843,-6.843,0.0203,0.686,Medium,**
+NET_RTG,9.597,3.142,-6.455,-6.455,0.0301,0.561,Medium,**
+PACE,101.512,102.371,0.859,0.859,0.4909,0.187,Negligible,
+TS%,0.597,0.592,-0.006,-0.006,0.6373,0.115,Negligible,

@@ -1,0 +1,10 @@
+Metric,With_Wemby,Without_Wemby,Delta,Narr_Delta,Lower_Better,p_value,Cohens_d,Effect,Sig
+DRTG,107.913,114.756,6.843,-6.843,True,0.0203,0.686,Medium,**
+NET_RTG,9.597,3.142,-6.455,-6.455,False,0.0301,0.561,Medium,**
+REB,47.609,44.944,-2.665,-2.665,False,0.1251,0.418,Small,
+WIN%,0.781,0.667,-0.115,-0.115,False,0.3706,0.253,Small,
+AST%,0.657,0.606,-0.051,-0.051,False,0.0918,0.509,Medium,*
+TS%,0.597,0.592,-0.006,-0.006,False,0.6373,0.115,Negligible,
+ORTG,117.51,117.898,0.388,0.388,False,0.8723,0.039,Negligible,
+PACE,101.512,102.371,0.859,0.859,False,0.4909,0.187,Negligible,
+PTS,119.578,120.722,1.144,1.144,False,0.6923,0.102,Negligible,
